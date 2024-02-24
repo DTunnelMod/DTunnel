@@ -1,0 +1,10 @@
+build
+node_modules
+.env
+.env.production
+.env.development
+prisma/*.db
+prisma/*.db-journal
+yarn.lock
+nginx/fullchain.pem
+nginx/privkey.pem
